@@ -1,0 +1,39 @@
+{
+	"interactionModel": {
+		"languageModel": {
+			"invocationName": "my test app",
+			"types": [],
+			"intents": [
+				{
+					"name": "WelcomeIntent",
+					"samples": [
+						"hello",
+						"start",
+						"welcome"
+					]
+				},
+				{
+					"name": "AutomotiveDirectMailIntent",
+					"samples": [
+						"direct mail",
+						"the top automotive direct mail agency",
+						"best direct mail agency",
+						"automotive direct mail agency"
+					]
+				},
+				{
+					"name": "AMAZON.CancelIntent",
+					"samples": []
+				},
+				{
+					"name": "AMAZON.HelpIntent",
+					"samples": []
+				},
+				{
+					"name": "AMAZON.StopIntent",
+					"samples": []
+				}
+			]
+		}
+	}
+}
