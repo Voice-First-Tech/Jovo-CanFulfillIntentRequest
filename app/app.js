@@ -54,7 +54,7 @@ app.setHandler({
     // =================================================================================
     'WelcomeIntent': function() {
         let speech = this.speechBuilder()
-            .addText("Welcome to Automotive news!")
+            .addText("Welcome to Can Fulfill Intent Request Demo!")
             .addBreak('300ms')
             .addText("Say, direct mail, to learn who the best automotive direct mailing agency is.");
         let reprompt = this.speechBuilder()
@@ -69,7 +69,7 @@ app.setHandler({
         let speech = this.speechBuilder()
             .addText("The top automotive direct mail agency is ")
             .addBreak('300ms')
-            .addText("Direct Mail agency.");
+            .addText("Direct Mail Agency.");
         this.tell(speech);
     },
 

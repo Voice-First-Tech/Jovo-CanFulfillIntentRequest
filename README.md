@@ -1,3 +1,17 @@
+# Jovo-CanFulfillIntentRequest
+
+Jovo Demo App with a simple "Hello World!" + asking for the user's name. To run the app:
+
+```sh
+## Clone Repo
+$ git clone https://github.com/Voice-First-Tech/Jovo-CanFulfillIntentRequest.git
+## Enter Repo
+$ cd Jovo-CanFulfillIntentRequest
+## Run App Locally
+$ jovo run
+```
+Video Demo: https://www.youtube.com/upload
+
 [![Jovo Framework](https://www.jovo.tech/img/github-logo.png)](https://www.jovo.tech)
 
 <p align="center">Templates for the <a href="https://github.com/jovotech/jovo-framework-nodejs">Jovo Framework</a> ⭐️</p>
@@ -17,5 +31,3 @@ $ jovo new <directory>
 ## Alternative
 $ jovo new <directory> --template helloworld
 ```
-
-# Jovo-CanFulfillIntentRequest
