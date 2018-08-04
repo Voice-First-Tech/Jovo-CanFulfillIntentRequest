@@ -10,7 +10,7 @@ $ cd Jovo-CanFulfillIntentRequest
 ## Run App Locally
 $ jovo run
 ```
-Video Demo: https://www.youtube.com/upload
+Video Demo: https://www.youtube.com/watch?v=P0YCR6KASSc
 
 [![Jovo Framework](https://www.jovo.tech/img/github-logo.png)](https://www.jovo.tech)
 
