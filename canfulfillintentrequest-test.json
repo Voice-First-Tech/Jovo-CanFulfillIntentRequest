@@ -3,7 +3,7 @@
     "new": true,
     "sessionId":"SessionId.1ef4a7c9-07f1-42b1-8798-9e00001bfcb1",
     "application":{
-      "applicationId":"amzn1.ask.skill.90f16808-3279-41c2-bac7-34b4110a83b7"
+      "applicationId":"<YOUR_ALEXA_APPLICATION_ID>"
     },
     "attributes":{
       "key": "string value"
@@ -27,7 +27,7 @@
     },
     "System":{
       "application":{
-        "applicationId":"amzn1.ask.skill.90f16808-3279-41c2-bac7-34b4110a83b7"
+        "applicationId":"<YOUR_ALEXA_APPLICATION_ID>"
       },
       "user":{
         "userId":"amzn1.ask.account.AGFBGMJPGUGT2HFEAHITSXUUABA4VZ7YOTIW3VMTPPJPSBH2O5FRS5RUIPHFMXG5UG4OV6TTIR5QVNKMT5XCHCYHVGRU7ISYFHZ7ZO22LLFJDXJDSZ5IBMP3H6VRAPREBH56YODZW5I5T5DBMLJPWXUAJ6M2YDQP275YCMJDUOCSQTKDOOYTSG7QVGRE7FIOSF2SUHD7F2CNTRQ"
