@@ -106,18 +106,6 @@ app.setHandler({
         this.tell(speech);
      },
 
-     // =================================================================================
-     //                     BUILT-IN UNHANDLED INTENT TO CATCH RANDOM CUSTOMER PHRASES
-     // =================================================================================
-     'Unhandled': function() {
-       let speech = this.speechBuilder()
-           .addText("Sorry I did not catch that.")
-           .addBreak('300ms')
-           .addText("Say, direct mail, to learn who the best automotive direct mailing agency is.");
-       let reprompt = this.speechBuilder()
-           .addText("Say, direct mail.");
-       this.ask(speech, reprompt);
-     },
 });
 
 module.exports.app = app;
